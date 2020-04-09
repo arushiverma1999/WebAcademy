@@ -99,7 +99,7 @@ animation-iteration-count: 5;
 	float:left;
 	margin: 40px 30px 20px 30px ;
 	border-radius: 30% ;
-	background-image: url("assests/snodejs.png");
+	background-image: url("assests/nodejs.png");
 	background-size:170px 170px; 
 	animation-name: slider6;
 	animation-duration: 5s;
